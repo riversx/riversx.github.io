@@ -1,2 +1,3 @@
-# Hello world
-## Privacy notice
+# 1. Hello world
+
+## 1.1 Privacy notice
