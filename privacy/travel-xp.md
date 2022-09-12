@@ -1,1 +1,1 @@
-# Travel XP - Privacy notice
+# Travel XP (iOS & Android) - Privacy notice
