@@ -1,1 +1,0 @@
-# My Magic Tricks (iOS & Android) - Privacy notice
