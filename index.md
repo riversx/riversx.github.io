@@ -2,7 +2,7 @@
 
 T.B.D.
 
-## About me as Freelance (Fd2-Solutions)
+## About me as freelance software developer (Fd2-Solutions)
 
 T.B.D.
 
