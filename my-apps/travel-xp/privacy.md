@@ -1,6 +1,8 @@
-# Privacy Policy
+# Travel XP Privacy Policy
 
-**Travel XP** privacy statement for **iOS** & **Android** *App*
+[Travel XP app info](./index.html)
+
+Privacy statement for **iOS** & **Android** App
 
 * * *
 

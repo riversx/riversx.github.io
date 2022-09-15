@@ -1,6 +1,8 @@
-# Privacy Policy
+# My Magic Tricks Privacy Policy
 
-**My Magic Tricks** privacy statement for **iOS** & **Android** *App*
+[My Magic Tricks app info](./index.html)
+
+Privacy statement for **iOS** & **Android** App
 
 * * *
 
