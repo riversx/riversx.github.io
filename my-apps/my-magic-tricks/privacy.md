@@ -1,6 +1,6 @@
-# My Magic Tricks Privacy Policy
+Navigation: [Riversx home page](/index.html) > [My Magic Tricks app info](./index.html)
 
-[My Magic Tricks app info](./index.html)
+# My Magic Tricks Privacy Policy
 
 Privacy statement for **iOS** & **Android** App
 

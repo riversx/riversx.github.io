@@ -1,6 +1,6 @@
-# Travel XP Privacy Policy
+Navigation: [Riversx home page](/index.html) > [Travel XP app info](./index.html)
 
-[Travel XP app info](./index.html)
+# Travel XP Privacy Policy
 
 Privacy statement for **iOS** & **Android** App
 
