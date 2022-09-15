@@ -1,7 +1,12 @@
-# 1. Hello world
+## About me
 
-Test! This is a paragraph.
+T.B.D.
 
-## 1.1 Privacy notice
+## About Fd2-Solutions 
 
-*Test*! This is a **paragraph**.
+T.B.D.
+
+## My applications:
+
+* [Travel XP](./travel-xp/index.html)
+* [My Magic Tricks](./my-magic-tricks/index.html)

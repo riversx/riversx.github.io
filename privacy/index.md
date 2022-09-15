@@ -1,1 +1,0 @@
-# Riversx - Privacy notice
