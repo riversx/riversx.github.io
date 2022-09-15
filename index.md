@@ -1,12 +1,23 @@
 ## About me (Boris Sclauzero)
 
-T.B.D.
+My CV on LinkedIn:
+
+[LinkedIn profile page](https://www.linkedin.com/in/borissclauzero/)
 
 ## About me as freelance software developer (Fd2-Solutions)
 
-T.B.D.
+Fd2-Solutions website:
+
+[https://www.fd2-solutions.it](https://www.fd2-solutions.it)
+
 
 ## My applications:
 
+**Mobile applications**
+
 * [Travel XP](./my-apps/travel-xp/index.html)
 * [My Magic Tricks](./my-apps/my-magic-tricks/index.html)
+
+**Web applications**
+
+* [RiskDocs](https://www.riskdocs.eu)
