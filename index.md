@@ -1,10 +1,10 @@
 ## About me (Boris Sclauzero)
 
-My CV on LinkedIn: [LinkedIn profile page](https://www.linkedin.com/in/borissclauzero/)
+My CV on LinkedIn: [LinkedIn profile page](https://www.linkedin.com/in/borissclauzero/){:target="_blank"}
 
 ## About me as freelance software developer (Fd2-Solutions)
 
-Fd2-Solutions website: [https://www.fd2-solutions.it](https://www.fd2-solutions.it)
+Fd2-Solutions website: [https://www.fd2-solutions.it](https://www.fd2-solutions.it){:target="_blank"}
 
 ## My applications:
 
@@ -15,4 +15,4 @@ Fd2-Solutions website: [https://www.fd2-solutions.it](https://www.fd2-solutions.
 
 **Web applications**
 
-* [RiskDocs](https://www.riskdocs.eu)
+* [RiskDocs](https://www.riskdocs.eu){:target="_blank"}
