@@ -107,4 +107,4 @@ T.B.D.
 
 ## Contact us
 
-Use issue tracking system on github: [Issue tracking](https://github.com/riversx/my-magic-tricks/issues)
+Use issue tracking system on github: [Issue tracking](https://github.com/riversx/riversx.github.io/issues)

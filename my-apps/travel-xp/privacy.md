@@ -106,4 +106,4 @@ T.B.D.
 
 ## Contact us
 
-Use issue tracking system on github: [Issue tracking](https://github.com/riversx/travel-xp/issues)
+Use issue tracking system on github: [Issue tracking](https://github.com/riversx/riversx.github.io/issues)
