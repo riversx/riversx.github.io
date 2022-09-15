@@ -1,15 +1,10 @@
 ## About me (Boris Sclauzero)
 
-My CV on LinkedIn:
-
-[LinkedIn profile page](https://www.linkedin.com/in/borissclauzero/)
+My CV on LinkedIn: [LinkedIn profile page](https://www.linkedin.com/in/borissclauzero/)
 
 ## About me as freelance software developer (Fd2-Solutions)
 
-Fd2-Solutions website:
-
-[https://www.fd2-solutions.it](https://www.fd2-solutions.it)
-
+Fd2-Solutions website: [https://www.fd2-solutions.it](https://www.fd2-solutions.it)
 
 ## My applications:
 
