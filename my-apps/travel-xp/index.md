@@ -2,6 +2,8 @@ Navigation: [Riversx home page](/index.html)
 
 # Travel XP
 
+## App Info
+
 **iOS** & **Android** *App*
 
 * * *

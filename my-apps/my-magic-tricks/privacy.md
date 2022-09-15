@@ -1,6 +1,8 @@
 Navigation: [Riversx home page](/index.html) > [My Magic Tricks app info](./index.html)
 
-# My Magic Tricks Privacy Policy
+# My Magic Tricks 
+
+## Privacy Policy
 
 Privacy statement for **iOS** & **Android** App
 
@@ -40,14 +42,18 @@ This app does not collect personal information.
 
 ## Microsoft AppCenter Analytics
 
-**App Center Diagnostics** is a cloud service that helps developers monitor the health of an application, delivering the data needed to understand what happens when an app fails during testing or in the wild.
-The App Center Diagnostics SDK collects information about crashes and errors in your apps and uploads them to the App Center portal for analysis by the development team - eliminating the guesswork about what really happened in the app when it failed.
+**App Center Analytics** will help as to understand more about the app users and their behavior when using your app.
+
+At the moment we are monitoring only the number of active users tracking anonymously the application startup.
+
 All the collected data are anonymous.
 
 ## Microsoft AppCenter Diagnostics
 
 **App Center Diagnostics** is a cloud service that helps developers monitor the health of an application, delivering the data needed to understand what happens when an app fails during testing or in the wild.
+
 The App Center Diagnostics SDK collects information about crashes and errors in your apps and uploads them to the App Center portal for analysis by the development team - eliminating the guesswork about what really happened in the app when it failed.
+
 All the collected data are anonymous.
 
 ## Tracking technologies
@@ -77,6 +83,7 @@ T.B.D.
 ## The app contents created using the app 
 
 All the data are saved on the local storage of your device: No data is transmitted over the network.
+
 The information is saved in Json files not encrypted.
 
 ## The data collected for diagnostic and analitycs 
@@ -94,7 +101,9 @@ As long as necessary to solve bugs.
 # About
 
 This app has been created for learning purposes.
+
 Every suggestion about new features is welcome. I cannot guarantee that will e implemented but I will do my best.
+
 Keep in mind that I am not payed to maintain this project and (at the moment) I chose to keep it without advertisements.
 
 ## Your choices

@@ -2,6 +2,8 @@ Navigation: [Riversx home page](/index.html)
 
 # My Magic Tricks
 
+## App Info
+
 **iOS** & **Android** *App*
 
 * * *
