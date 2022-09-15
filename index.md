@@ -1,12 +1,12 @@
-## About me
+## About me (Boris Sclauzero)
 
 T.B.D.
 
-## About Fd2-Solutions 
+## About me as Freelance (Fd2-Solutions)
 
 T.B.D.
 
 ## My applications:
 
-* [Travel XP](./travel-xp/index.html)
-* [My Magic Tricks](./my-magic-tricks/index.html)
+* [Travel XP](./my-apps/travel-xp/index.html)
+* [My Magic Tricks](./my-apps/my-magic-tricks/index.html)
